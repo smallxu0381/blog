@@ -578,7 +578,7 @@
         }
 
         ul.cferror_details li::before {
-            content: '鈥�';
+            content: '•';
             padding-right: 6px;
         }
 
@@ -619,7 +619,7 @@
         }
 
         .sub-footer ul li::before{
-            content: '鈥�';
+            content: '•';
             padding-right: 6px;
         }
 
